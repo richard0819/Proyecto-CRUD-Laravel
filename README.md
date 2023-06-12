@@ -1,8 +1,8 @@
 
 
-## Proyecto CRUD - Curso de PHP Laravel
+# Proyecto CRUD - Curso de PHP Laravel
 
-# Ing. ricardo doradea Erazo
+## Ing. ricardo doradea Erazo
 
 Indicaciones:
 
