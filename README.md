@@ -12,3 +12,4 @@ Para utilizar el proyecto es necesario contar con:
 * Configurar el archivo .env para apuntar a una base de datos MySQL y establecer los parametros de conexion
 * Realizar dentro de la carpeta del proyecto: php artisan migrate
 * Realizar dentro de la carpeta del proyecto: php -S localhost:8000 -t public/   o   php artisan serve
+* Ingresar a la URL http://localhost:8000/proyectos
